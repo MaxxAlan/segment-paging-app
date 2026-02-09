@@ -1,0 +1,22 @@
+
+
+Version:	3.9
+CmdLine:	D:\segment-paging-app\simulator-app.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\segment-paging-app\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_202
+Check launcher:	C:\Program Files\Java\jre1.8.0_202\bin\javaw.exe (OK)
+Match:		1.8.0_202
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_202
+Ignore:		1.8.0_202
+Runtime used:	1.8.0_202 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_202\bin\javaw.exe
+Launcher args:	-jar "D:\segment-paging-app\simulator-app.exe"
+Args length:	46/32768 chars
+Exit code:	0
